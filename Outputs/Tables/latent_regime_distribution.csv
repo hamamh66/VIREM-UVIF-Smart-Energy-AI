@@ -1,0 +1,10 @@
+Dataset,ActualRegime,Count,Percent
+Primary_Internal_Test,Critical_Low,19547,49.667140969610735
+Primary_Internal_Test,High,8238,20.932005285089947
+Primary_Internal_Test,Normal,7374,18.73666022969814
+Primary_Internal_Test,Surplus,4197,10.664193515601179
+UniSolar_External_Test,Critical_Low,4137,10.001934142449592
+UniSolar_External_Test,High,8272,19.999032928775204
+UniSolar_External_Test,Low,8272,19.999032928775204
+UniSolar_External_Test,Normal,16544,39.99806585755041
+UniSolar_External_Test,Surplus,4137,10.001934142449592

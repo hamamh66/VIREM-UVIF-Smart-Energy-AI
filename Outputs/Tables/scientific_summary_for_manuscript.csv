@@ -1,0 +1,5 @@
+Layer,InternalFinding,ExternalFinding,Interpretation
+Raw regression transfer,R2 = 0.9023,R2 = -599.2968,Raw targets are not physically equivalent across datasets.
+Distribution-shift diagnosis,Primary training environment,Global shift score = 7.8697,External dataset exhibits severe feature and operational mismatch.
+Latent regime alignment,Balanced accuracy = 0.7526,Balanced accuracy = 0.2311,Operational regimes provide a more meaningful cross-dataset comparison than raw target transfer.
+Regime-aware VIREM-UVIF,Evidence acquisition = 55.14%,Evidence acquisition = 100.00%,The variational decision layer reconfigures actions in response to uncertainty and shift.
